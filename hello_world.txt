@@ -1,0 +1,4 @@
+Hello world, I am partaking in the Odin project course
+My goal here is to become as adept at as many types of
+development as I can to broaden my capabilities and 
+hopefully land myself a position as a developer somewhere.
